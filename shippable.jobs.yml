@@ -1,0 +1,6 @@
+jobs:
+  - name: gh-collab-man
+    type: manifest
+    steps:
+      - IN: gh-collab-image
+        pull: false
