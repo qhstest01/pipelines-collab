@@ -2,5 +2,5 @@ jobs:
   - name: gh-collab-man
     type: manifest
     steps:
-      - IN: gh-collab-image1
+      - IN: vr-collab-image1
         pull: false
